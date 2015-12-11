@@ -1,0 +1,28 @@
+name: vr
+favicon: null
+layout_spectrum: 0.101774433394894
+typography_spectrum: 0.49421492777764797
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5753066993784159
+  lightness: 0.6335092512890697
+  saturation: 0.0902932716999203
+  rhythmicContrast: 0.9773822140414268
+purpose: []
