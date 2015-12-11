@@ -2,6 +2,7 @@ name: vr
 favicon: null
 layout_spectrum: 0.101774433394894
 typography_spectrum: 0.49421492777764797
+title: Virtual Reality
 cta:
   domain: null
   bucket: null
